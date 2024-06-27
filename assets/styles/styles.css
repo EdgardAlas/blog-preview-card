@@ -83,8 +83,6 @@ body {
   display: grid;
   gap: 1.5rem;
 
-  box-shadow: 10px;
-
   border: 0.0625rem solid var(--black);
   box-shadow: 0.5rem 0.5rem 0 0 var(--black);
 
@@ -159,7 +157,7 @@ body {
   }
 }
 
-@media screen and (width >= 375px) {
+@media screen and (width >= 23.4375rem) {
   .card {
     margin-inline: 0;
   }
