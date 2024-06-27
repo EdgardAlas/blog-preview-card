@@ -108,13 +108,15 @@ body {
   background-color: var(--yellow);
   border-radius: 0.25rem;
   font-weight: 800;
-  width: 4.5625rem;
   height: 1.625rem;
 
   font-size: var(--font-small);
 
+  justify-self: start;
+
   display: grid;
   place-content: center;
+  padding-inline: 0.75rem;
 }
 
 .card__date {
