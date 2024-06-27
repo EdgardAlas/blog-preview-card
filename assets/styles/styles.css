@@ -83,7 +83,7 @@ body {
   display: grid;
   gap: 1.5rem;
 
-  border: 0.0625rem solid var(--black);
+  outline: 0.0625rem solid var(--black);
   box-shadow: 0.5rem 0.5rem 0 0 var(--black);
 
   --font-small: 0.75rem;
